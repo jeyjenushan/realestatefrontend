@@ -30,11 +30,11 @@ document.body.style.overflow='hidden';
           <ul className='hidden md:flex gap-7 text-white'>
             <a href='#Header' 
             className='cursor-pointer hover:text-gray-400'>Home</a>
-                        <a href='#Header' 
+                        <a href='#About' 
             className='cursor-pointer hover:text-gray-400'>About</a>
-                        <a href='#Header' 
+                        <a href='#project' 
             className='cursor-pointer hover:text-gray-400'>Projects</a>
-                        <a href='#Header' 
+                        <a href='#Testimonials' 
             className='cursor-pointer hover:text-gray-400'>Testimonials</a>
           </ul>
 
